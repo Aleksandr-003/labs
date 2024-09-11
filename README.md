@@ -1,2 +1,4 @@
-# labs
-This repository is for publishing lab assignments for students
+# Лабораторные работы
+
+[Лабы по ООП](OOP.md)
+
