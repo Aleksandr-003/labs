@@ -1,2 +1,7 @@
-﻿#remote_theme: pages-themes/hacker@v0.2.0 #Хаскер
-remote_theme: pages-themes/cayman@v0.2.0
+﻿remote_theme: pages-themes/hacker@v0.2.0 #Хаскер
+#remote_theme: pages-themes/cayman@v0.2.0
+
+title: [SmorodinovLabs]
+description: [Лабораторные работы для студентов)]
+
+show_downloads: ["false"]
