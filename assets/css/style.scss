@@ -1,0 +1,6 @@
+/* Стили вашего сайта */
+.btn {
+  &[data-test-selector="view-repo-btn"] {
+    display: none !important;
+  }
+}
