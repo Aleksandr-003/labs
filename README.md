@@ -11,5 +11,7 @@ E-mail: Smorodinov-1990@mail.ru
 
 [Лабы по ИНС](Error404.md)
 
+[Дополнитеьные материалы](DopMaterials/DopMaterials.md)
+
 [Посещяемость](Error404.md)
 
