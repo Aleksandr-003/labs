@@ -53,6 +53,12 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?*
 Если всё настроено правильно, вы увидите сообщение:  
 *Hi UserName! You've successfully authenticated, but GitHub does not provide shell access.*
 
+Если после настроек при вводе команды ```git push``` требуется ввод логина и пароля,   необходимо проверить URL вашего репозитория  
+```git remote -v```, скорее всего там будет ссылка https:  
+origin https://github.com/UserName/your-repo.git (fetch)  
+origin https://github.com/UserName/your-repo.git (push)  
+Необходимо заменить её на SSH:  
+```git remote set-url origin git@github.com:UserName/your-repo.git```
 ### Работа с локальным репозиторием
 
 #### Инициализация репозитория:
