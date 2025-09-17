@@ -101,3 +101,8 @@ git add .                     # Подготовить к сохранению �
 git commit -m "Сообщение"     # Сохранить изменения в истории локально
 git push                      # Отправить изменения на удаленный сервер (GitHub)
 ```
+
+
+### Подробнее
+https://habr.com/ru/companies/yandex_praktikum/articles/700708/
+https://git-scm.com/doc
