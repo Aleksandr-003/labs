@@ -7,3 +7,5 @@
 
 
 ### [4. Архитектура ПО](https://habr.com/ru/articles/907154/)
+
+[На главную](../README.md)

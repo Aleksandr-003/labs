@@ -105,3 +105,5 @@ private:
     std::string m_hostName; ///< Имя хоста базы данных
 };
 ```
+
+[На главную](../README.md)

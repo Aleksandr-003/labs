@@ -106,3 +106,5 @@ git push                      # Отправить изменения на уд�
 ### Подробнее
 https://habr.com/ru/companies/yandex_praktikum/articles/700708/
 https://git-scm.com/doc
+
+[На главную](../README.md)
