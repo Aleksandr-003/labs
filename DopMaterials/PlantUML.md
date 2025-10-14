@@ -21,7 +21,6 @@ http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 * Java  
 * Graphviz  
 
-
 ## Создание картинки
 Для предпросмотра получаемой диграммы нажимем:  
 ```alt + D```
@@ -31,7 +30,34 @@ http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 ![alt text](PlantUML_2.png)  
 Выбираем формат и диаграмма автоматически сохранится в папку out текущей директории
 
+## Основы работы с PlantUML
 
+### Начало диаграммы:
+    plantuml nameDiagramm
+    @startuml
+        Код диаграммы здесь
+    @enduml
+
+### Простой класс:
+
+    plantuml
+    @startuml
+        class Person {
+        - name: String
+        - age: int
+        + getName(): String
+        + setAge(age: int): void
+        }
+    @enduml
+
+#### Модификаторы доступа
+    + -- public
+    - -- private
+    # -- protected
+    ~ -- package private (Для java)
+
+### Отношения между классами
+    Типы отношений:
 
 
 [На главную](../README.md)
