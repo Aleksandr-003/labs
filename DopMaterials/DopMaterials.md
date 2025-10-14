@@ -3,7 +3,7 @@
 
 ### [1. Информация о Doxygen](Doxygen.md)
 ### [2. Информация о Git](GIT.md)
-### [3. Информация о PlantUML](../PlantUML.md)
+### [3. Информация о PlantUML](PlantUML.md)
 
 
 ### [4. Архитектура ПО](https://habr.com/ru/articles/907154/)

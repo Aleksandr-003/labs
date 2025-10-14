@@ -58,6 +58,9 @@ http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
 
 ### Отношения между классами
     Типы отношений:
-
+        ' Наследование
+    class Parent
+    class Child
+    Child --|> Parent
 
 [На главную](../README.md)
