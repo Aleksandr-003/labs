@@ -1,0 +1,39 @@
+﻿
+## Основы работы с PlantUML
+### Начало диаграммы:  
+    ```plantuml
+    plantuml nameDiagramm
+    @startuml
+        Код диаграммы здесь
+    @enduml
+    ```
+
+### Простой класс:
+
+    plantuml
+    @startuml
+        class Person {
+        - name: String
+        - age: int
+        + getName(): String
+        + setAge(age: int): void
+        }
+    @enduml
+
+#### Модификаторы доступа
+    + -- public
+    - -- private
+    # -- protected
+    ~ -- package private (Для java)
+
+### Отношения между классами
+
+#### Типы отношений:  
+Наследование  
+    ```
+    class Parent  
+    class Child  
+    Child --|> Parent  
+    ```
+
+[На главную](../README.md)
