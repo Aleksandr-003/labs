@@ -6,7 +6,6 @@
 ### [3. Информация о PlantUML](PlantUML.md)  
 
 
-### [4. Архитектура ПО](https://habr.com/ru/articles/907154/)
 
-## [Назад](../OOP.md)
+
 ## [На главную](../README.md)

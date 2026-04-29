@@ -37,6 +37,6 @@
 ## [Информация по работе с git](../DopMaterials/GIT.md)  
 ## [Полезные книги и ссылки](book.md)  
 
-## [Дополнитеьные материалы](DopMaterials/DopMaterials.md)
+## [Дополнитеьные материалы](../DopMaterials/DopMaterials.md)
 
 ## [На главную](../README.md)
