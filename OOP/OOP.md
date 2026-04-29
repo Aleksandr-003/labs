@@ -28,7 +28,6 @@
 
 ## [Лабораторная работа №7](../Error404.md)
 
-## [Лабораторная работа №8](../Error404.md)
 
 # Вопросы к экзамену 
 
@@ -36,10 +35,10 @@
 
 # Дополнительный материалы
 
-[Информация по работе с doxygen](../DopMaterials/Doxygen.md)  
-[Информация по работе с git](../DopMaterials/GIT.md)  
-[Полезные книги и ссылки](book.md)  
+## [Информация по работе с doxygen](../DopMaterials/Doxygen.md)  
+## [Информация по работе с git](../DopMaterials/GIT.md)  
+## [Полезные книги и ссылки](book.md)  
 
-[Дополнитеьные материалы](DopMaterials/DopMaterials.md)
+## [Дополнитеьные материалы](DopMaterials/DopMaterials.md)
 
-[На главную](../README.md)
+## [На главную](../README.md)
