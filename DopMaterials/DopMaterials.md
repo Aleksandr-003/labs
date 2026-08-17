@@ -5,7 +5,4 @@
 ### [2. Информация о Git](GIT.md)  
 ### [3. Информация о PlantUML](PlantUML.md)  
 
-
-
-
 ## [На главную](../README.md)

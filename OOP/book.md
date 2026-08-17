@@ -19,5 +19,7 @@
 
 ### 7. [Архитектура ПО](https://habr.com/ru/articles/907154/)
 
+### 8. https://metanit.com/cpp/
+
 ## [Назад](OOP.md)
 ## [На главную](../README.md)
